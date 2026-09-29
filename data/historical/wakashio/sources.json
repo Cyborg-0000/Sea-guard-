@@ -1,0 +1,52 @@
+[
+  {
+    "dataset": "Wakashio Incident Profile & Timeline",
+    "provider": "Official Incident Reports (IMO / Panama)",
+    "reference": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/Wakashio.aspx",
+    "access_date": "2026-08-29",
+    "time_range": "2020-07-25 to 2020-08-15",
+    "spatial_range": "Mauritius EEZ",
+    "provenance": "REAL_HISTORICAL",
+    "notes": "Verified authoritative facts regarding grounding and spill timeline."
+  },
+  {
+    "dataset": "ESA Sentinel-2 Derived Publication Image (Mauritius oil spill)",
+    "provider": "European Space Agency (ESA) Multimedia Gallery",
+    "reference": "https://www.esa.int/ESA_Multimedia/Images/2020/08/Mauritius_oil_spill",
+    "access_date": "2026-08-29",
+    "time_range": "2020-08-11T06:00:00Z",
+    "spatial_range": "Pointe d'Esny, Mauritius (Approx)",
+    "provenance": "REAL_HISTORICAL",
+    "notes": "REAL_HISTORICAL historical source imagery documenting the event. This is a processed publication image provided by ESA, NOT an original downloadable georeferenced Sentinel-2 GeoTIFF. The bbox used in visualization is an approximation. This image must not be used as quantitative input for drift or correlation calculations."
+  },
+  {
+    "dataset": "Sentinel-1 SAR Imagery (Aug 10, 16, 22 2020)",
+    "provider": "Copernicus Data Space Ecosystem (CDSE)",
+    "reference": "https://dataspace.copernicus.eu/",
+    "access_date": "2026-08-29",
+    "time_range": "2020-08-10 to 2020-08-22",
+    "spatial_range": "Pointe d'Esny, Mauritius",
+    "provenance": "SIMULATED_HISTORICAL",
+    "notes": "Real historical products were discovered (e.g. S1B_IW_GRDH_1SDV_20200810T013820_20200810T013848_022854_02B625_4645.SAFE and S1A_IW_GRDH_1SDV_20200816T013830_20200816T013859_033925_03EF79_FB97.SAFE). However, authentic multi-gigabyte raw SAR products could not be cached locally for this offline standalone demo. Simulated fixtures are substituted with SIMULATED_HISTORICAL labels and explicit warnings."
+  },
+  {
+    "dataset": "Wakashio Historical AIS Track",
+    "provider": "Commercial AIS Providers",
+    "reference": "Internal Data Request",
+    "access_date": "2026-08-29",
+    "time_range": "2020-07-24 to 2020-07-25",
+    "spatial_range": "Indian Ocean -> Mauritius",
+    "provenance": "SIMULATED_HISTORICAL",
+    "notes": "Verified, sufficiently complete historical AIS dataset suitable for this offline reconstruction has not yet been obtained. A synthetic stand-in track is provided for correlation testing. It must be labelled 'SIMULATED VESSEL (Stand-in)' and never presented as genuine Wakashio AIS."
+  },
+  {
+    "dataset": "ERA5 Historical Wind / CMEMS Ocean Physics",
+    "provider": "Copernicus Climate Data Store / CMEMS",
+    "reference": "https://cds.climate.copernicus.eu/",
+    "access_date": "2026-08-29",
+    "time_range": "2020-08-06 to 2020-08-15",
+    "spatial_range": "Pointe d'Esny, Mauritius",
+    "provenance": "SIMULATED_HISTORICAL",
+    "notes": "Verified historical ERA5/CMEMS data was not cached. Values used are an explicitly documented SIMULATED_HISTORICAL approximation based on literature averages (~15 kn E/NE wind, ~0.3 m/s SW current)."
+  }
+]

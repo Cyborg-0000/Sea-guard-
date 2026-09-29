@@ -1,0 +1,220 @@
+{
+  "candidates": [
+    {
+      "id": "4a395680-6d6d-41ba-b869-a982c81510ce",
+      "score": 89.68,
+      "spatial": 23.84,
+      "temporal": 20.0,
+      "trajectory": 21.25,
+      "drift": 14.59,
+      "context": 10.0
+    },
+    {
+      "id": "56d4d416-dc92-4b16-ba11-14027d638626",
+      "score": 70.88,
+      "spatial": 20.22,
+      "temporal": 20.0,
+      "trajectory": 16.25,
+      "drift": 9.41,
+      "context": 5.0
+    },
+    {
+      "id": "1cad7bbe-133a-4c86-8d9d-97f1bdff3e07",
+      "score": 33.54,
+      "spatial": 0.5,
+      "temporal": 20.0,
+      "trajectory": 3.95,
+      "drift": 9.09,
+      "context": 0.0
+    }
+  ],
+  "timeline": [
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T08:32:00",
+      "title": "CRIMSON TANKER ENTERS SOURCE REGION"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T08:32:00",
+      "title": "OCEAN VOYAGER IN VICINITY"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T08:32:00",
+      "title": "BLUE HORIZON IN VICINITY"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T09:32:00",
+      "title": "CRIMSON TANKER ENTERS SOURCE REGION"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T09:32:00",
+      "title": "OCEAN VOYAGER IN VICINITY"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T09:32:00",
+      "title": "BLUE HORIZON IN VICINITY"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T10:32:00",
+      "title": "CRIMSON TANKER ENTERS SOURCE REGION"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T10:32:00",
+      "title": "OCEAN VOYAGER IN VICINITY"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T10:32:00",
+      "title": "BLUE HORIZON IN VICINITY"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T11:32:00",
+      "title": "AIS: Crimson Tanker"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T11:32:00",
+      "title": "AIS: Ocean Voyager"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T11:32:00",
+      "title": "AIS: Blue Horizon"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T12:32:00",
+      "title": "AIS: Crimson Tanker"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T12:32:00",
+      "title": "AIS: Ocean Voyager"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T12:32:00",
+      "title": "AIS: Blue Horizon"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T13:32:00",
+      "title": "AIS: Crimson Tanker"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T13:32:00",
+      "title": "AIS: Ocean Voyager"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T13:32:00",
+      "title": "AIS: Blue Horizon"
+    },
+    {
+      "type": "SATELLITE_ACQUISITION",
+      "timestamp": "2026-08-26T14:27:00",
+      "title": "Satellite Acquisition"
+    },
+    {
+      "type": "SPILL_DETECTED",
+      "timestamp": "2026-08-26T14:32:00",
+      "title": "Oil Spill Detected"
+    },
+    {
+      "type": "ENVIRONMENT_OBSERVATION",
+      "timestamp": "2026-08-26T14:32:00",
+      "title": "MetOcean Data Integrated"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T14:32:00",
+      "title": "AIS: Crimson Tanker"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T14:32:00",
+      "title": "AIS: Ocean Voyager"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T14:32:00",
+      "title": "AIS: Blue Horizon"
+    },
+    {
+      "type": "ATTRIBUTION_COMPLETE",
+      "timestamp": "2026-08-26T14:42:00",
+      "title": "Attribution Analysis Complete"
+    },
+    {
+      "type": "CANDIDATE_ANALYSIS",
+      "timestamp": "2026-08-26T14:43:00",
+      "title": "Analyzing: Ocean Voyager"
+    },
+    {
+      "type": "CANDIDATE_ANALYSIS",
+      "timestamp": "2026-08-26T14:44:00",
+      "title": "Analyzing: Blue Horizon"
+    },
+    {
+      "type": "BEST_HYPOTHESIS_SELECTED",
+      "timestamp": "2026-08-26T15:32:00",
+      "title": "BEST DRIFT HYPOTHESIS IDENTIFIED"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T15:32:00",
+      "title": "AIS: Crimson Tanker"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T15:32:00",
+      "title": "AIS: Ocean Voyager"
+    },
+    {
+      "type": "AIS_OBSERVATION",
+      "timestamp": "2026-08-26T15:32:00",
+      "title": "AIS: Blue Horizon"
+    },
+    {
+      "type": "SOURCE_CORRIDOR_REVEALED",
+      "timestamp": "2026-08-26T16:32:00",
+      "title": "Source Corridor Modeled"
+    }
+  ],
+  "nodes": [
+    "attribution",
+    "attribution",
+    "attribution",
+    "corridor",
+    "drift",
+    "environment",
+    "satellite",
+    "spill",
+    "vessel",
+    "vessel",
+    "vessel"
+  ],
+  "edges": [
+    "node-corridor-1->node-vessel-0",
+    "node-corridor-1->node-vessel-1",
+    "node-corridor-1->node-vessel-2",
+    "node-drift-1->node-corridor-1",
+    "node-env-1->node-drift-1",
+    "node-sat-1->node-spill-1",
+    "node-spill-1->node-drift-1",
+    "node-vessel-0->node-attr-0",
+    "node-vessel-1->node-attr-1",
+    "node-vessel-2->node-attr-2"
+  ],
+  "top_score": 89.68,
+  "top_candidate_id": "4a395680-6d6d-41ba-b869-a982c81510ce"
+}

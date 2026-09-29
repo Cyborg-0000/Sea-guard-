@@ -1,0 +1,77 @@
+[
+  {
+    "id": "t0",
+    "timestamp": "2020-07-17T00:00:00Z",
+    "title": "BASELINE",
+    "description": "Baseline clear ocean state prior to incident.",
+    "event_type": "BASELINE",
+    "provenance": "SIMULATED_HISTORICAL"
+  },
+  {
+    "id": "t1",
+    "timestamp": "2020-07-25T16:00:00Z",
+    "title": "GROUNDING",
+    "description": "MV Wakashio runs aground on coral reef.",
+    "event_type": "GROUNDING",
+    "provenance": "REAL_HISTORICAL"
+  },
+  {
+    "id": "t2",
+    "timestamp": "2020-08-01T00:00:00Z",
+    "title": "POST-GROUNDING ASSESSMENT",
+    "description": "Vessel remains aground. No significant oil leak observed yet.",
+    "event_type": "ASSESSMENT",
+    "provenance": "REAL_HISTORICAL"
+  },
+  {
+    "id": "t3",
+    "timestamp": "2020-08-06T10:30:00Z",
+    "title": "HULL BREACH / INITIAL LEAK",
+    "description": "First major oil leak observed following hull rupture.",
+    "event_type": "SPILL_START",
+    "provenance": "REAL_HISTORICAL"
+  },
+  {
+    "id": "t4",
+    "timestamp": "2020-08-07T06:12:00Z",
+    "title": "SAR ACQUISITION",
+    "description": "Sentinel-1 SAR observation shows growing anomaly.",
+    "event_type": "SAR_ACQUISITION",
+    "provenance": "SIMULATED_HISTORICAL",
+    "satellite_scene_id": "s1_aug07_sim"
+  },
+  {
+    "id": "t5",
+    "timestamp": "2020-08-11T06:00:00Z",
+    "title": "SENTINEL-2 OBSERVATION",
+    "description": "ESA-published Sentinel-2 image reveals extensive oil slick around vessel.",
+    "event_type": "OPTICAL_ACQUISITION",
+    "provenance": "REAL_HISTORICAL",
+    "satellite_scene_id": "s2_aug11_real"
+  },
+  {
+    "id": "t6",
+    "timestamp": "2020-08-15T09:00:00Z",
+    "title": "VESSEL BREAKUP",
+    "description": "MV Wakashio hull splits in two.",
+    "event_type": "BREAKUP",
+    "provenance": "REAL_HISTORICAL"
+  },
+  {
+    "id": "t7",
+    "timestamp": "2020-08-16T06:12:00Z",
+    "title": "POST-BREAKUP SAR",
+    "description": "Sentinel-1 SAR acquisition over broken vessel.",
+    "event_type": "SAR_ACQUISITION",
+    "provenance": "SIMULATED_HISTORICAL",
+    "satellite_scene_id": "s1_aug16_sim"
+  },
+  {
+    "id": "t8",
+    "timestamp": "2020-08-22T00:00:00Z",
+    "title": "COASTAL AFTERMATH",
+    "description": "Oil accumulation along the coastline.",
+    "event_type": "AFTERMATH",
+    "provenance": "REAL_HISTORICAL"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "S1A_IW_GRDH_1SDV_20200807T061200_SIM",
+  "acquisition_time": "2020-08-07T06:12:00Z",
+  "polarization": "VV",
+  "processing": "Sigma0 VV",
+  "provenance": "SIMULATED_HISTORICAL",
+  "notes": "SIMULATED_HISTORICAL SAR FIXTURE. Real asset unavailable in offline sandbox.",
+  "bbox": [
+    57.73,
+    -20.445600000000002,
+    57.755599999999994,
+    -20.42
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "venvPath": ".",
+  "venv": "backend/venv",
+  "ignore": ["**/__pyrefly_virtual__/**"],
+  "extraPaths": [
+    "e:/SATILITE/backend"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "e:/SATILITE/backend",
+      "extraPaths": ["e:/SATILITE/backend"]
+    }
+  ]
+}

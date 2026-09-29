@@ -1,0 +1,29 @@
+[
+  {
+    "id": "56d4d416-dc92-4b16-ba11-14027d638626",
+    "mmsi": "111111111",
+    "imo": "IMO111",
+    "name": "Ocean Voyager",
+    "vessel_type": "Cargo",
+    "flag": "Panama",
+    "length": 150.0
+  },
+  {
+    "id": "4a395680-6d6d-41ba-b869-a982c81510ce",
+    "mmsi": "222222222",
+    "imo": "IMO222",
+    "name": "Crimson Tanker",
+    "vessel_type": "Tanker",
+    "flag": "Liberia",
+    "length": 300.0
+  },
+  {
+    "id": "1cad7bbe-133a-4c86-8d9d-97f1bdff3e07",
+    "mmsi": "333333333",
+    "imo": "IMO333",
+    "name": "Blue Horizon",
+    "vessel_type": "Fishing",
+    "flag": "Spain",
+    "length": 45.0
+  }
+]

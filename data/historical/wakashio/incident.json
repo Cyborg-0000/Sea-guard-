@@ -1,0 +1,11 @@
+{
+  "id": "INC-WAKASHIO-2020",
+  "name": "MV Wakashio Grounding & Spill",
+  "location": "Pointe d'Esny, Mauritius",
+  "latitude": -20.438119,
+  "longitude": 57.744631,
+  "detected_at": "2020-07-25T16:00:00Z",
+  "status": "HISTORICAL RECONSTRUCTION",
+  "provenance": "REAL_HISTORICAL",
+  "source": "Official IMO / Panama Maritime Authority incident reports"
+}
